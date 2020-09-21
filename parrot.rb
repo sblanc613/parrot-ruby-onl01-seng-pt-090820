@@ -3,3 +3,4 @@
 def (parrot)
   puts "parrot"
 end
+parrot("parrot")
